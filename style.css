@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@300;400&family=Ubuntu:wght@300&display=swap');
+
+body {
+    background-color: hsl(168, 34%, 41%);
+    color: hsl(0, 0%, 100%);
+    font-family: 'Fraunces', serif;
+}
+
+#title{
+    text-align: center;
+    border: 3px  hsl(198, 62%, 26%);
+}
+
+#img-caption {
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+#tribute-info {
+    text-align: center;
+}
+
+
+
+#image {
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
